@@ -1,6 +1,6 @@
 # Squidly2519 Developer Portfolio
 
-![Logo](./images/logo.png)
+![Logo](./images/logo.svg)
 
 This is the official developer portfolio for **Squidly2519**, showcasing projects, skills, and experience as a software developer at SAPHI Engineering.
 
@@ -56,3 +56,4 @@ This project is licensed under the MIT License. Feel free to use and modify for 
 ---
 
 💻 **Created by Squidly2519** | 🚀 Powered by passion for code
+
